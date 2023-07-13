@@ -5,3 +5,4 @@ I will be posting all the notebooks and slides
 # Content
 ## Data manipulation
 ## Data joining 
+## Data visualization with seaborn and matplot
