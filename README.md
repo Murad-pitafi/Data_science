@@ -8,5 +8,5 @@ And notebooks done on Datacamp workspace
 ## Data joining 
 ## Data visualization with seaborn and matplot
 ## Webscrapping
-## data extracting
+## Data extracting
 ## Probability
