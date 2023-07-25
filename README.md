@@ -7,6 +7,6 @@ And notebooks done on Datacamp workspace
 ## Data manipulation
 ## Data joining 
 ## Data visualization with seaborn and matplot
-## Web scrapping
+## Web Scrapping
 ## Data Extracting
 ## Probability
