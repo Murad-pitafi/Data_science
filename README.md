@@ -8,6 +8,6 @@ cell to cell
 ## -> Data manipulation
 ## -> Data joining 
 ## -> Data visualization with seaborn and matplot
-## Web Scrapping
-## Data Extracting
-## Probability
+## -> Web Scrapping
+## -> Data Extracting
+## -> Probability
