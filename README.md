@@ -6,8 +6,8 @@ cell to cell
 
 # Content
 ## -> Data manipulation
-## Data joining 
-## Data visualization with seaborn and matplot
+## -> Data joining 
+## -> Data visualization with seaborn and matplot
 ## Web Scrapping
 ## Data Extracting
 ## Probability
