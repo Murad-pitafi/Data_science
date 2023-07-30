@@ -2,7 +2,7 @@
 All my progress in data science and the course of #DataCamp
 I will be posting all the notebooks and slides
 And notebooks done on Datacamp workspace
-cell to cell 
+cell to cells
 
 # Content
 ## -> Data manipulation
